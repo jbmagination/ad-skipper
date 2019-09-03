@@ -1,10 +1,10 @@
-# Skip shorte.st ads - Chrome extension
+# Skip ads - Chrome extension
 
 
-Instantly skips any links from http://shorte.st/ and redirects to the actual site.
+Instantly skips any links from general ad websites and redirects to the actual site.
 
 ## Installation
-Install from the [Chrome Webstore](https://chrome.google.com/webstore/detail/skip-shortest-ads/bhgkdnnlhmefhnkfilcaaibapeepkfok)
+(Not released yet)
 
 ## Supported domains
 - shorte.st
@@ -25,5 +25,5 @@ This works by spoofing the User Agent of the browser, so that shorte.st believes
 
 ## Screenshots
 
-Example of a page that would be skipped:
+Example of pages that would be skipped:
 ![screenshot](screenshot.png "Without extension")
